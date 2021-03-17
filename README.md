@@ -1,5 +1,5 @@
 # EventosMouse.css
-Eventos para el ratón - Mouse - en CSS..
+Eventos para el ratón - *Mouse* - en CSS..
 <hr>
 
 **onchange**: Cuando se produce un cambio en el estado de un elemento.
